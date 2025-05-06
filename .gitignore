@@ -9,7 +9,7 @@ public class HelloWorld {
 
     if (isLatte && isIced) {
       System.out.println("espresso, milk, ice, syrup.");
-    } else if (isLatte && isMatcha) {
+    } else if (isLatte && withMatcha) {
       System.out.println("matcha, oat milk, ice, vanilla.");
     } else if (isLatte) {
       System.out.println("espresso, steamed milk.");
